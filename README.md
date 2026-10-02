@@ -4,8 +4,8 @@
 
 <br>
 
-<a href="https://cadwalt.github.io/InteractivePortfolio/index.html"><img src="https://img.shields.io/badge/%E2%9C%BF%20portfolio-B86F5E?style=for-the-badge" alt="Portfolio"></a>
-<a href="https://www.linkedin.com/in/cadencewalton"><img src="https://img.shields.io/badge/%E2%9C%BF%20linkedin-B86F5E?style=for-the-badge" alt="LinkedIn"></a>
+<a href="https://cadwalt.github.io/InteractivePortfolio/index.html"><img src="https://img.shields.io/badge/%E2%9C%BF%20portfolio-2F4650?style=for-the-badge" alt="Portfolio"></a>
+<a href="https://www.linkedin.com/in/cadencewalton"><img src="https://img.shields.io/badge/%E2%9C%BF%20linkedin-2F4650?style=for-the-badge" alt="LinkedIn"></a>
 
 </div>
 
@@ -24,17 +24,17 @@ I'm a junior software developer at **Calvient** and a Management Information Sys
 ## ✦ My toolkit
 
 <p>
-  <img src="https://img.shields.io/badge/JavaScript-FBEAE5?style=for-the-badge&logo=javascript&logoColor=B86F5E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-FBEAE5?style=for-the-badge&logo=react&logoColor=B86F5E" alt="React">
-  <img src="https://img.shields.io/badge/HTML5-FBEAE5?style=for-the-badge&logo=html5&logoColor=B86F5E" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS-FBEAE5?style=for-the-badge&logo=css&logoColor=B86F5E" alt="CSS">
-  <img src="https://img.shields.io/badge/Bootstrap-FBEAE5?style=for-the-badge&logo=bootstrap&logoColor=B86F5E" alt="Bootstrap">
-  <img src="https://img.shields.io/badge/Git-FBEAE5?style=for-the-badge&logo=git&logoColor=B86F5E" alt="Git">
+  <img src="https://img.shields.io/badge/JavaScript-2F4650?style=for-the-badge&logo=javascript&logoColor=D89A88" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-2F4650?style=for-the-badge&logo=react&logoColor=D89A88" alt="React">
+  <img src="https://img.shields.io/badge/HTML5-2F4650?style=for-the-badge&logo=html5&logoColor=D89A88" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS-2F4650?style=for-the-badge&logo=css&logoColor=D89A88" alt="CSS">
+  <img src="https://img.shields.io/badge/Bootstrap-2F4650?style=for-the-badge&logo=bootstrap&logoColor=D89A88" alt="Bootstrap">
+  <img src="https://img.shields.io/badge/Git-2F4650?style=for-the-badge&logo=git&logoColor=D89A88" alt="Git">
 </p>
 
 <p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cadwalt&show_icons=true&hide_border=true&bg_color=FBEAE5&title_color=B86F5E&text_color=5E3A33&icon_color=B86F5E&border_radius=12" alt="Cadence's GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadwalt&layout=compact&hide_border=true&bg_color=FBEAE5&title_color=B86F5E&text_color=5E3A33&border_radius=12" alt="Cadence's most used languages">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cadwalt&show_icons=true&hide_border=true&bg_color=2F4650&title_color=D89A88&text_color=F4EFE6&icon_color=D89A88&border_radius=12" alt="Cadence's GitHub stats">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadwalt&layout=compact&hide_border=true&bg_color=2F4650&title_color=D89A88&text_color=F4EFE6&border_radius=12" alt="Cadence's most used languages">
 </p>
 
 <br>
@@ -45,6 +45,6 @@ I'm a junior software developer at **Calvient** and a Management Information Sys
 
 If you're building something thoughtful, I'd love to hear about it.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F4D3C9,100:FBEAE5&height=110&section=footer" alt="" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F4650,100:D89A88&height=110&section=footer" alt="" width="100%">
 
 </div>
