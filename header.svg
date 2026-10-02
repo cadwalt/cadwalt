@@ -3,10 +3,10 @@
   <defs>
     <style>
       @font-face { font-family: "PF"; src: url(data:font/woff2;base64,d09GMgABAAAAAAbUABAAAAAADZAAAAZ5AAEz+AAAAAAAAAAAAAAAAAAAAAAAAAAAGiIbIBwqBmA/U1RBVEQAeBEICo4cizYBNgIkA0QLJAAEIAWFSAcgDAcb8goRlatPIPh5YDd8ZIjlbaQxVGEjoqo+n3Pvf/7zuOmf+5KyFqkwqCgWqKrPDTYvc3H2xZV75v2Qyr1Lgz+UAOQBCgDGgBOgzTd7ss7G1PYLABJR2ApbIStMJcG1Q3WqVTgkR+SJHKCa3WyrhhZQLn7CTc6ZCeFnsqbOYDeONJwYcMxX/7UCAZASWDNwINj2FEMCggMRuisghie8QZnZhZWwBQ8AVt4xTK+HL9j57Ie2jR0OV5jgMp5VsVrYAGygLQcKTqdmKCgSltEIEAjull2ZC1yFSuXGx1ttwM/DP6iGMXYTVEuImDYGQNGi6MZM6OkdSwD+hvEiGQg8HNsAEDeViHeekf2CAArAaUWQSFvGoxMdwXG11QhEBvLQhi70YbjKbamgEkku6aAP+x3WWy87b4fttti030BQwGpxwASRrFaGAJzyWhoAgwHWADALoMBQAE2xykBgzzgnIbDHJEBRGg2viZcFKrz0bgmaBBe5VDrE/Cpu1wEfycaXEG/efth//2vxwEtLDOOrYRKzJeCCpUaSpryQwn7d2ZfFdV6/JpPFIqMzZ7YQZ9p8Opp2uV9twM6TG8GMm04J2K20tFZw3waSYcjXeXX9P79q4PFxMt14Ynlwgch0+Lx44KTrrkMwXhQPXCbTEcMBi8T8ym/fKzDjOol5j4vb3rPigfOH3Q++1JovBNDKs9YFB2G8NMR8T0gLVwyrz3e0nL262NSjYsiZKyHCxpez7D2FNx6SYPeketiYDotp16dHpflVkGJ97ziVXmjdtlJqiFNPSN0lO15fv+1dqVy5dnh1CzPuiy+2aD5AXIzzDzHfc9u3DW5Nm/dz63p4FP0Pb8AJi2yILfOsPhGkfo35nHLVJhhf5rrvueGxwXnvFuIU8yUpZGkqSfw6/KQ2NV6EktzfO+tZeqXeLjk73kVJw+pdGt81VxzK9/SLLIwOb3adlpPnPjWysTgiUijyWChzKRdlujTTaGeXeKEpr1yf1r2uqnLb6JE1e9Y14b6CJDt0PwrbpVBsLSHfwEJqVfwoPS78qDsh+UnRVohA3xJcJfegxiIK8i0i40+YiuAbVIQ5NQqzAtk3gAVMOv9K7BQFHH2jDRj/YZbzyykueSrfTE/lOx+uvuXhM9NH7ebpeXKxsWhwcGCGfMJ4WUaY3O2kTOy2d2vpL6idJdhNyArY47rA7v7mnDXFC7WGWrjJhQ+HT7/ooZ7g7dPh7aUct7DUxfv/QHltfJm+6bVWaf1Mo98emlUUFJvaE584oa42afLwNPiscNge9LZe+bGPkGZzZ3vQfYPyZ299muj5r4FZ6kHn3v3HOzp14rRKt26ZRrc+e8jDnJSExMb48IlNDQkTuxKglNd29I0tY+87OpSrPfUxtaLOKE+ZQ5ah7i90+e8VGraHZ5YERGf2JMSNr25InDIkFe84nPD/TlA65jG9UMBUSuE7//jg8O8tpIswSW7I+lD+fqjM/5FW6ZjDNLp0BqXXIv8Qj8lrPXwGPzbw/tO8lUhlmqcwIWjQ6c65FSHNt0iwZflMmz5s4Kynj/KxiM85VBcEo9xf+FH+TQTOEbI4qk3V9W881dqA7E0qvxlM+yXm1wTBNMuFHT6yQBEWXpFrerg9ICwlQuWzSqvaC9sb9p7r/fydhjnPlC9BPuSU77TEZabjMH+/yV4LNGfU6jMa7Z5W9z0QRfA6y63Voku/CXg9HCPARLAD+EGQWn9jxZgJwB0gFccjgG7iMXs+Y6oRBIAi/kx1zre0OCT+ZstxXwLAa6+SQgD4/NN3/oSTdTw3nnMAIAIDABDwW2vmZkGUglVAsJ7HiYUjkV1EMCeHjoZCR1YAfQdfVgo/+gu+FAn3G5ubxWatdUiKaHJFMv4OwA9araDXeZrAQQCLFedRggHImng7gHQxzkhQkc7IYE+ZRg7pVG7kEUorjTZwp5sGEYLpfScCpExq5ODIXI0ySJnv09hDzCKddZr1he96FWiKOoGPQOzKI9JhdHRTKWDTTpcKMTkCji3SwDa1cFm30UvzthKYGFhl7Ni5LLs+WKkNyRvTWARTOV3DaLsEts788kR8iQNZAVrtNnjZWpKiSVtC2y5Npth20+PlLQ3NxlBC4TVlqF9thSptpHaw2K16WNB4NI+oNMVNH88v99ss8Bc6CyYynfHzf/syVN52/JSsUrSOEuoRoflKx8R6QluBbISid8mco3wAAAA=) format("woff2"); }
-      .t { font-family: "PF", "Playfair Display", Georgia, serif; font-size: 48px; font-kerning: none; fill: #5E3A33; }
+      .t { font-family: "PF", "Playfair Display", Georgia, serif; font-size: 48px; font-kerning: none; fill: #FFFDF8; }
     </style>
     <linearGradient id="g" x1="0" x2="1" y1="0" y2="0">
-      <stop offset="0" stop-color="#FBEAE5"/><stop offset="1" stop-color="#F4D3C9"/>
+      <stop offset="0" stop-color="#2F4650"/><stop offset="1" stop-color="#5C7480"/>
     </linearGradient>
     <clipPath id="c">
       <rect x="225.9" y="0" height="200" width="0">
@@ -15,12 +15,12 @@
     </clipPath>
   </defs>
   <path fill="url(#g)" d="M0,0 H854 V148 C730,188 600,112 427,138 C260,164 140,116 0,152 Z"/>
-  <path fill="#F4D3C9" opacity="0.55" d="M0,0 H854 V128 C700,160 560,100 427,122 C270,146 150,104 0,132 Z"/>
+  <path fill="#5C7480" opacity="0.55" d="M0,0 H854 V128 C700,160 560,100 427,122 C270,146 150,104 0,132 Z"/>
   <g clip-path="url(#c)">
     <text class="t" x="225.9" y="98">Hi, I’m Cadence.</text>
-    <path fill="#B86F5E" d="M615.128,68.0 Q617.988,78.14 628.128,81 Q617.988,83.86 615.128,94.0 Q612.268,83.86 602.128,81 Q612.268,78.14 615.128,68.0 Z"/>
+    <path fill="#D89A88" d="M615.128,68.0 Q617.988,78.14 628.128,81 Q617.988,83.86 615.128,94.0 Q612.268,83.86 602.128,81 Q612.268,78.14 615.128,68.0 Z"/>
   </g>
-  <rect y="60" width="3" height="46" rx="1.5" fill="#B86F5E" x="228.9">
+  <rect y="60" width="3" height="46" rx="1.5" fill="#D89A88" x="228.9">
     <animate attributeName="x" dur="5.75s" repeatCount="indefinite" calcMode="discrete" keyTimes="0.0000;0.1217;0.1409;0.1600;0.1791;0.1983;0.2174;0.2365;0.2557;0.2748;0.2939;0.3130;0.3322;0.3513;0.3704;0.3896;0.4087;0.4278;0.8800;0.8870;0.8939;0.9009;0.9078;0.9148;0.9217;0.9287;0.9357;0.9426;0.9496;0.9565;0.9635;0.9704;0.9774;0.9843;0.9913" values="228.9;266.6;281.4;294.2;305.7;323.2;335.2;378.3;389.8;423.4;447.9;476.4;500.6;529.8;553.4;577.7;591.1;592.1;591.1;577.7;553.4;529.8;500.6;476.4;447.9;423.4;389.8;378.3;335.2;323.2;305.7;294.2;281.4;266.6;228.9"/>
     <animate attributeName="opacity" dur="1s" repeatCount="indefinite" calcMode="discrete" keyTimes="0;0.5" values="1;0"/>
   </rect>
