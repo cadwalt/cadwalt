@@ -12,20 +12,17 @@
 
 <br>
 
-## ✦ a little about me
+## ✦ A little about me
 
-I'm a junior software developer at **Calvient** and a Management Information Systems student at the **University of Oklahoma**. I enjoy taking complicated workflows, listening closely to the people who use them, and turning them into web experiences that feel clear and intentional.
+I'm a junior software developer at **Calvient** and a Management Information Systems student at the **University of Oklahoma**. I enjoy taking complicated workflows, listening closely to the people who use them, and turning them into web experiences that feel intentional.
 
-I especially like the space between product thinking and implementation: asking better questions, noticing the small friction points, and then building the thing.
-
-## ✦ currently
+## ✦ Currently
 
 - Building dashboards and internal tools at Calvient
 - Studying Management Information Systems at OU
-- Exploring where frontend development, product, and UX meet
 - Trying to survive a 19-credit senior year
 
-## ✦ my toolkit
+## ✦ My toolkit
 
 <p>
   <img src="https://img.shields.io/badge/JavaScript-FBEAE5?style=for-the-badge&logo=javascript&logoColor=B86F5E" alt="JavaScript">
@@ -45,7 +42,7 @@ I especially like the space between product thinking and implementation: asking 
 
 <div align="center">
 
-### thanks for stopping by ✿
+#### Thanks for stopping by.
 
 If you're building something thoughtful, I'd love to hear about it.
 
