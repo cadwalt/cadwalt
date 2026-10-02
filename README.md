@@ -32,11 +32,6 @@ I'm a junior software developer at **Calvient** and a Management Information Sys
   <img src="https://img.shields.io/badge/Git-2F4650?style=for-the-badge&logo=git&logoColor=D89A88" alt="Git">
 </p>
 
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=cadwalt&show_icons=true&hide_border=true&bg_color=2F4650&title_color=D89A88&text_color=F4EFE6&icon_color=D89A88&border_radius=12" alt="Cadence's GitHub stats">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cadwalt&layout=compact&hide_border=true&bg_color=2F4650&title_color=D89A88&text_color=F4EFE6&border_radius=12" alt="Cadence's most used languages">
-</p>
-
 <br>
 
 <div align="center">
