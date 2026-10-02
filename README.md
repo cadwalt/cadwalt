@@ -6,7 +6,6 @@
 
 <a href="https://cadwalt.github.io/InteractivePortfolio/index.html"><img src="https://img.shields.io/badge/%E2%9C%BF%20portfolio-B86F5E?style=for-the-badge" alt="Portfolio"></a>
 <a href="https://www.linkedin.com/in/cadencewalton"><img src="https://img.shields.io/badge/%E2%9C%BF%20linkedin-B86F5E?style=for-the-badge" alt="LinkedIn"></a>
-<a href="mailto:cadencewalton@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%BF%20email%20me-B86F5E?style=for-the-badge" alt="Email me"></a>
 
 </div>
 
